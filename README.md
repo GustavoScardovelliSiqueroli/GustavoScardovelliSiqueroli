@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoScardovelliSiqueroli&show_icons=true&theme=dracula&include_all_commits=true)
+Programador back-end plus full-stack - Python e Java: Django | Flask | Spring Boot
   <a href="https://github.com/GustavoScardovelliSiqueroli">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoScardovelliSiqueroli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoScardovelliSiqueroli&layout=compact&langs_count=7&theme=dracula"/>
