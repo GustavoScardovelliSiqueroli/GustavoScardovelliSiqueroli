@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
   Programador back-end plus full-stack - Python e Java: Django | Flask | Spring Boot
   </div>
 <div align="center">
