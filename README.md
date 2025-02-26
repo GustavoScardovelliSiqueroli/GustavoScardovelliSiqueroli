@@ -3,9 +3,6 @@ especializado na criação de APIs REST robustas e escaláveis
 utilizando FastAPI e Django REST Framework. Com 6 anos
 de estudos na área, passei por Java, Node, php e atualmente Python</p>
 
-Formado em ADS<!-- - ✍ Indie Hacker. -->
-
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
